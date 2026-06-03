@@ -44,7 +44,7 @@ def main():
     s2 = int("034a6987bc4e6cfac6a8a5ed767ccbbf47cfb15323b3ebb44f3e72ee6148e255", 16)
 
     # 🧠 Oczekiwany publiczny klucz – podmień na właściwy
-    expected_pubkey = "02174ee672429ff94304321cdae1fc1e487edf658b34bd1d36da03761658a2bb09"
+    expected_pubkey = "033bb421d32a069f078cfdfd56cdc1391fbd87e4183ca94458e3f5c4c8945782be"
 
     # secp256k1 curve order
     n = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141
