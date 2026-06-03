@@ -37,7 +37,7 @@ def get_compressed_pubkey(d):
 def main():
     # 🔢 Wstawione dane z podpisów
     z1 = int("0cf7190cc6c1f95b987e0e284e4eba44552f89662272b850b059a8dc0d8905a8  ", 16)
-    z2 = int("c7c58a952ca7b31ced67bfea57fd7571314f8d77a88c90f42e68bdd82c2adb4f", 16)
+    z2 = int("e204e6d82b618ec35cbb3d0c902d76a00d4afa6cfbb37e797309a73a0b5ddb55", 16)
     r1 = int("ab9467e44699c0ab5ee2da6389e1646725a03bd66433eb99e531e45d76476ee0", 16)
     r2 = int("a674f3ced3e25621cde299d20a700ccab080eb8352db313c5e039473ae48df83", 16)
     s1 = int("59098b9fe30776049508f91eea10e4a9972eec2c1afe79674379578447b7aa46", 16)
