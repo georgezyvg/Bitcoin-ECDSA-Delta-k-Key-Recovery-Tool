@@ -40,7 +40,7 @@ def main():
     z2 = int("e204e6d82b618ec35cbb3d0c902d76a00d4afa6cfbb37e797309a73a0b5ddb55", 16)
     r1 = int("ced8474e7cbb2c9ade8b4a6474c3fa8ea4036718d844f3105dde155a6583a134", 16)
     r2 = int("ceda0e7cfe7e6da20b3e1b08877e722eceba96574f50b78c8b03618e4c6ce18c", 16)
-    s1 = int("59098b9fe30776049508f91eea10e4a9972eec2c1afe79674379578447b7aa46", 16)
+    s1 = int("1c9e070de661d5913d457c6f075641ec28c8c8f4fe336070710787e471ebd558", 16)
     s2 = int("57d8156cb1f7d1b390a13bc008bb3f2478d5552d00cc75215f21bbef866bec55", 16)
 
     # 🧠 Oczekiwany publiczny klucz – podmień na właściwy
